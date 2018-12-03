@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background: #222;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.Xmas {
+  text-align: center;
+  margin:auto;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.settings {
+  padding: 2rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background-color: white;
+  border-radius: 5px;
+  margin:auto;
+  width: 50%;
+}
+
+.rc-slider {
+  margin-bottom: 1rem;
+  margin-top: 0.3rem;
+}
+
+label {
+  margin-left: 1rem;
+  margin-right: 0.25rem;
+  vertical-align: -1px;
+}
+
+.p5Canvas {
+  width: auto!important;
+  max-height: 100vh!important;
+  height: auto!important;
+  max-width: 100vw!important;
+}
+
+.useless-lol {
+  display: none;
+}
+
+.hide-controls {
+  display: none;
+}
