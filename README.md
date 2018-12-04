@@ -1,3 +1,5 @@
+Holiday Card Maker 2018 edition. This is a tradition of sorts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
